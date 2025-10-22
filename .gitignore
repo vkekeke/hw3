@@ -1,2 +1,5 @@
 *.o
 llrec-test
+.vscode/
+hw3_tests/
+.DS_Store
